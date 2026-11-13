@@ -78,8 +78,8 @@ The design explores how Design for Manufacturing and Assembly (DFM/DFA) principl
 - Developed a modular arrangement to support assembly, accessibility, and maintenance.
 
 <p align="center">
-  <a href="images/modular-cooling-system.png">
-    <img src="images/modular-cooling-system.png" width="500" alt="Modular Cooling System">
+  <a href="Cooling system.png">
+    <img src="Cooling system.png" width="500" alt="Modular Cooling System">
   </a>
 </p>
 
@@ -120,24 +120,24 @@ DFM/DFA principles were incorporated into the product development process to eva
       <b>Isometric View</b>
     </td>
     <td align="center" width="50%">
-      <a href="images/laptop-stand-side-view.png">
-        <img src="images/laptop-stand-side-view.png" width="350" alt="Side View">
+      <a href="Front View.png">
+        <img src="Front View.png" width="350" alt="Side View">
       </a>
       <br>
-      <b>Side View</b>
+      <b>Front View</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="images/laptop-stand-exploded.png">
-        <img src="images/laptop-stand-exploded.png" width="350" alt="Exploded Assembly">
+      <a href="Exploded assembly.png">
+        <img src="Exploded assembly.png" width="350" alt="Exploded Assembly">
       </a>
       <br>
       <b>Exploded Assembly</b>
     </td>
     <td align="center">
-      <a href="images/cooling-module.png">
-        <img src="images/cooling-module.png" width="350" alt="Cooling Module">
+      <a href="Cooling system.png">
+        <img src="Cooling system.png" width="350" alt="Cooling Module">
       </a>
       <br>
       <b>Modular Cooling Assembly</b>
@@ -152,8 +152,8 @@ DFM/DFA principles were incorporated into the product development process to eva
       <b>Individual Component Design</b>
     </td>
     <td align="center">
-      <a href="images/final-product.png">
-        <img src="images/final-product.png" width="350" alt="Final Product Configuration">
+      <a href="Laptop Stand.png">
+        <img src="Laptop Stand.png" width="350" alt="Final Product Configuration">
       </a>
       <br>
       <b>Final Product Configuration</b>
